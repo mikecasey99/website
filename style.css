@@ -1,13 +1,15 @@
-h1{
-    text-align: center;
-    overflow: hidden;
-    font-family: 'Cabin', sans-serif;
-    font-size: 1000%;
-    margin-top: 10%;
-    margin-bottom: 0%;
-    color:rgb(224,58,62)
+.logo{
+  padding-top: 0%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  overflow: hidden;
+  margin-top: 10%;
+  margin-bottom: 0%;
 }
-img{
+.maryland{
+  margin-top: 0%;
   padding-top: 0%;
   display: block;
   margin-left: auto;
@@ -17,7 +19,7 @@ img{
 h2{
   text-align: center;
   font-family: 'Cabin', sans-serif;
-  font-size: 140%;
+  font-size: 150%;
   margin-top: 4%;
   color:rgb(255, 255, 255)
 }
