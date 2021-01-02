@@ -1,26 +1,25 @@
 .logo{
   padding-top: 0%;
   display: block;
+  margin-top: 15%;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
   overflow: hidden;
-  margin-top: 10%;
-  margin-bottom: 0%;
 }
 .maryland{
   margin-top: 0%;
-  padding-top: 0%;
+  padding-bottom: 0%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 30%;
+  height: auto;
 }
 h2{
   text-align: center;
   font-family: 'Cabin', sans-serif;
-  font-size: 150%;
-  margin-top: 4%;
+  font-size: 170%;
   color:rgb(255, 255, 255)
 }
 #particles-js {
