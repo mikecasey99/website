@@ -1,0 +1,47 @@
+li{
+    list-style: none;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    width: 4%;
+    
+}
+a {
+color: rgb(255,213,32);
+text-decoration: none;
+}
+a:hover {
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size: 150px;
+    margin-top: 12%;
+    margin-bottom: 0%;
+    color:rgb(224,58,62)
+}
+img{
+  padding-top: 0%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+h2{
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+  font-size: 20px;
+  margin-top: 4%;
+  color:rgb(255, 255, 255)
+}
+#particles-js {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 99%;
+  left: 0;
+  background: slategrey;
+  z-index: -1;
+}
